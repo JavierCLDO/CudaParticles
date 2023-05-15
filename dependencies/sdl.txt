@@ -1,0 +1,3 @@
+add SDL-release-2.26.3 to the folder in order for it to compile. 
+
+Then copy the SDL dll to bin

@@ -1,0 +1,5 @@
+.vs/
+bin/
+temp/
+dependencies/SDL-release-2.26.3/*
+*.user
